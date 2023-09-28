@@ -12,6 +12,14 @@ public class Main {
         //task8();
         //task9();
         //task10();
+        //task10();
+        //task10(); //task10();
+        //task10();
+        //task10();
+        //task10();
+        //task10();
+
+
     }
 
     /**
